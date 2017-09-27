@@ -10,3 +10,10 @@ patch:
         patched: '2017-06-14T15:34:16.494Z'
     - feathers-socketio > socket.io > socket.io-adapter > debug > ms:
         patched: '2017-06-14T15:34:16.494Z'
+  'npm:debug:20170905':
+    - mocha > debug:
+        patched: '2017-09-27T05:57:08.747Z'
+    - helmet > connect > debug:
+        patched: '2017-09-27T05:57:08.747Z'
+    - helmet > connect > finalhandler > debug:
+        patched: '2017-09-27T05:57:08.747Z'
